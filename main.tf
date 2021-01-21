@@ -12,7 +12,7 @@ terraform {
     organization = "applaudo"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "gh-actions-demo-2"
     }
   }
 }
